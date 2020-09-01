@@ -1,0 +1,10 @@
+{
+    "name": "Mikroblog/Database",
+    "description": "A database class for Mikroblog.",
+    "authors": [
+        {
+            "name": "Özgür Ayhan Erdem",
+            "email": "ayhanerdm@gmail.com"
+        }
+    ]
+}
