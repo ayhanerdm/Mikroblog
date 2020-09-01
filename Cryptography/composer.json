@@ -1,0 +1,10 @@
+{
+    "name": "Mikroblog/Cryptography",
+    "description": "A cryptography class for Mikroblog.",
+    "authors": [
+        {
+            "name": "Özgür Ayhan Erdem",
+            "email": "ayhanerdm@gmail.com"
+        }
+    ]
+}
