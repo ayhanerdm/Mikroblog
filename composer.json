@@ -1,11 +1,11 @@
 {
-    "name": "Mikroblog",
+    "name": "Mikroblog/Mikroblog",
     "description": "Mikroblog library.",
     "keywords": ["mikroblog","mikro blog","ayhanerdm"],
     "homepage": "https://github.com/ayhanerdm/mikroblog",
     "authors": [
         {
-            "name": "Özgür Ayhan Erdeö",
+            "name": "Özgür Ayhan Erdem",
             "email": "ayhanerdm@gmail.com",
             "homepage": "https://twitter.com/ayhanerdm",
             "role": "Developer"
